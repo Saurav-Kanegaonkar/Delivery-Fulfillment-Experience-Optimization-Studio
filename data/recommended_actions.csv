@@ -1,0 +1,221 @@
+action_id,entity_id,action_type,effort_hours,expected_lift_pct,status
+ACT0001,DEL010,prioritize,37,19.5,In Review
+ACT0002,DEL011,monitor,24,5.6,Ready
+ACT0003,DEL028,prioritize,36,9.9,Ready
+ACT0004,DEL029,automate,40,19.0,In Review
+ACT0005,DEL002,document,39,11.2,Proposed
+ACT0006,DEL003,automate,41,9.6,Complete
+ACT0007,DEL008,automate,4,21.0,In Review
+ACT0008,DEL009,document,26,7.2,In Review
+ACT0009,DEL012,document,27,9.5,Ready
+ACT0010,DEL017,validate,17,14.6,In Review
+ACT0011,DEL002,validate,27,14.8,In Review
+ACT0012,DEL029,document,8,19.7,Proposed
+ACT0013,DEL029,document,9,22.5,Proposed
+ACT0014,DEL019,automate,15,3.9,Complete
+ACT0015,DEL029,prioritize,20,5.8,In Review
+ACT0016,DEL032,document,30,9.3,Proposed
+ACT0017,DEL031,document,42,11.5,Ready
+ACT0018,DEL001,automate,27,2.1,In Review
+ACT0019,DEL017,automate,43,8.6,Complete
+ACT0020,DEL013,prioritize,8,10.5,Complete
+ACT0021,DEL017,monitor,22,9.9,Ready
+ACT0022,DEL019,automate,5,11.6,Ready
+ACT0023,DEL028,monitor,22,20.2,In Review
+ACT0024,DEL022,escalate,17,8.0,Proposed
+ACT0025,DEL005,prioritize,43,19.5,Ready
+ACT0026,DEL031,monitor,13,5.4,In Review
+ACT0027,DEL007,escalate,7,7.8,Ready
+ACT0028,DEL024,escalate,38,5.8,Ready
+ACT0029,DEL011,automate,28,23.7,Complete
+ACT0030,DEL014,validate,39,9.6,Complete
+ACT0031,DEL025,validate,42,13.5,Complete
+ACT0032,DEL017,escalate,12,4.1,Ready
+ACT0033,DEL019,escalate,39,17.8,Complete
+ACT0034,DEL021,document,37,5.6,Ready
+ACT0035,DEL005,monitor,42,5.3,Ready
+ACT0036,DEL010,prioritize,23,13.7,Proposed
+ACT0037,DEL028,document,33,11.2,Proposed
+ACT0038,DEL001,monitor,7,5.4,In Review
+ACT0039,DEL003,monitor,11,11.6,Complete
+ACT0040,DEL007,document,36,21.5,Proposed
+ACT0041,DEL021,monitor,17,23.0,Proposed
+ACT0042,DEL007,document,21,19.6,Complete
+ACT0043,DEL035,validate,12,6.4,Proposed
+ACT0044,DEL022,prioritize,37,5.5,Ready
+ACT0045,DEL019,validate,38,13.5,In Review
+ACT0046,DEL036,prioritize,34,16.6,Ready
+ACT0047,DEL025,document,21,4.7,Complete
+ACT0048,DEL006,automate,33,12.9,In Review
+ACT0049,DEL016,escalate,41,6.3,Proposed
+ACT0050,DEL008,escalate,37,23.3,Ready
+ACT0051,DEL036,monitor,35,21.2,Proposed
+ACT0052,DEL010,automate,23,11.7,Complete
+ACT0053,DEL031,monitor,23,22.5,In Review
+ACT0054,DEL026,automate,34,14.2,Ready
+ACT0055,DEL017,escalate,22,12.6,In Review
+ACT0056,DEL008,validate,38,4.5,Proposed
+ACT0057,DEL022,monitor,44,5.0,Ready
+ACT0058,DEL014,automate,34,13.7,Proposed
+ACT0059,DEL026,escalate,5,15.6,Ready
+ACT0060,DEL029,monitor,18,16.7,Proposed
+ACT0061,DEL010,escalate,30,4.8,In Review
+ACT0062,DEL022,escalate,44,4.5,Proposed
+ACT0063,DEL011,escalate,30,19.5,Proposed
+ACT0064,DEL034,document,16,15.6,Proposed
+ACT0065,DEL001,prioritize,34,3.1,In Review
+ACT0066,DEL026,prioritize,44,11.3,Ready
+ACT0067,DEL013,monitor,10,16.3,Ready
+ACT0068,DEL034,escalate,7,3.2,Proposed
+ACT0069,DEL015,document,5,3.5,In Review
+ACT0070,DEL017,prioritize,40,7.6,Proposed
+ACT0071,DEL029,escalate,16,19.4,Complete
+ACT0072,DEL020,prioritize,43,18.2,In Review
+ACT0073,DEL016,validate,38,23.3,Proposed
+ACT0074,DEL024,monitor,42,4.0,Ready
+ACT0075,DEL004,escalate,4,20.8,Ready
+ACT0076,DEL018,monitor,29,14.6,In Review
+ACT0077,DEL018,validate,43,10.6,Proposed
+ACT0078,DEL024,validate,23,21.1,Ready
+ACT0079,DEL017,document,14,20.1,In Review
+ACT0080,DEL010,monitor,25,3.2,In Review
+ACT0081,DEL002,prioritize,2,11.0,Complete
+ACT0082,DEL002,monitor,34,7.6,Complete
+ACT0083,DEL005,validate,37,17.2,Ready
+ACT0084,DEL033,escalate,31,14.9,Complete
+ACT0085,DEL027,escalate,34,5.6,In Review
+ACT0086,DEL025,document,5,12.6,Proposed
+ACT0087,DEL005,monitor,35,3.1,Complete
+ACT0088,DEL010,validate,5,19.7,In Review
+ACT0089,DEL022,monitor,9,16.9,In Review
+ACT0090,DEL016,automate,4,23.3,In Review
+ACT0091,DEL024,prioritize,41,6.2,Complete
+ACT0092,DEL006,automate,24,8.8,Complete
+ACT0093,DEL015,document,24,6.7,Ready
+ACT0094,DEL020,validate,19,7.3,In Review
+ACT0095,DEL035,validate,39,18.3,Complete
+ACT0096,DEL010,document,13,12.3,Proposed
+ACT0097,DEL023,validate,37,17.2,Proposed
+ACT0098,DEL008,monitor,4,23.7,Ready
+ACT0099,DEL016,validate,7,2.7,Proposed
+ACT0100,DEL013,prioritize,26,3.8,Complete
+ACT0101,DEL035,escalate,17,2.4,Ready
+ACT0102,DEL010,document,27,5.6,Complete
+ACT0103,DEL008,document,39,15.2,Ready
+ACT0104,DEL025,validate,8,6.8,Complete
+ACT0105,DEL003,validate,40,11.3,Ready
+ACT0106,DEL002,monitor,28,12.6,Complete
+ACT0107,DEL016,escalate,40,15.9,Proposed
+ACT0108,DEL031,validate,16,11.5,Ready
+ACT0109,DEL022,automate,17,4.8,In Review
+ACT0110,DEL018,document,17,18.9,In Review
+ACT0111,DEL003,escalate,11,5.6,Ready
+ACT0112,DEL007,document,20,5.2,Complete
+ACT0113,DEL013,document,22,21.2,Ready
+ACT0114,DEL006,monitor,21,2.1,Ready
+ACT0115,DEL003,escalate,21,10.0,Complete
+ACT0116,DEL003,escalate,5,23.7,Ready
+ACT0117,DEL003,document,33,6.6,In Review
+ACT0118,DEL007,document,43,23.2,Proposed
+ACT0119,DEL036,validate,32,8.0,Proposed
+ACT0120,DEL036,prioritize,12,8.6,Ready
+ACT0121,DEL013,validate,19,15.1,Proposed
+ACT0122,DEL025,monitor,7,20.4,In Review
+ACT0123,DEL016,automate,26,18.6,In Review
+ACT0124,DEL021,monitor,36,5.5,Ready
+ACT0125,DEL033,document,19,15.1,Complete
+ACT0126,DEL011,document,36,7.9,Ready
+ACT0127,DEL005,escalate,3,14.8,Proposed
+ACT0128,DEL021,automate,37,14.5,Complete
+ACT0129,DEL011,document,35,20.2,In Review
+ACT0130,DEL015,monitor,26,15.2,Proposed
+ACT0131,DEL007,document,11,20.5,Complete
+ACT0132,DEL001,automate,12,17.3,Proposed
+ACT0133,DEL032,document,25,11.3,Complete
+ACT0134,DEL019,validate,13,9.9,In Review
+ACT0135,DEL011,automate,23,5.8,Proposed
+ACT0136,DEL009,validate,11,9.4,Proposed
+ACT0137,DEL015,automate,3,4.9,In Review
+ACT0138,DEL002,document,10,6.4,Proposed
+ACT0139,DEL012,monitor,7,12.9,In Review
+ACT0140,DEL019,validate,34,23.1,Ready
+ACT0141,DEL026,automate,2,9.4,In Review
+ACT0142,DEL006,prioritize,19,21.7,In Review
+ACT0143,DEL001,monitor,14,6.0,Complete
+ACT0144,DEL026,validate,4,23.5,Proposed
+ACT0145,DEL007,escalate,40,16.0,Complete
+ACT0146,DEL003,automate,20,3.4,In Review
+ACT0147,DEL028,validate,39,21.7,Proposed
+ACT0148,DEL020,escalate,28,4.8,In Review
+ACT0149,DEL009,prioritize,23,18.3,Ready
+ACT0150,DEL003,monitor,11,17.3,Proposed
+ACT0151,DEL009,escalate,33,13.6,Ready
+ACT0152,DEL032,escalate,23,5.3,In Review
+ACT0153,DEL032,document,23,20.2,Ready
+ACT0154,DEL010,monitor,44,18.1,Proposed
+ACT0155,DEL030,prioritize,14,23.5,Ready
+ACT0156,DEL016,escalate,42,4.2,Ready
+ACT0157,DEL030,document,24,15.9,Ready
+ACT0158,DEL020,monitor,10,6.5,Complete
+ACT0159,DEL031,automate,10,16.7,Proposed
+ACT0160,DEL028,document,8,22.3,Complete
+ACT0161,DEL012,prioritize,30,21.8,Complete
+ACT0162,DEL020,automate,29,17.7,Complete
+ACT0163,DEL010,automate,2,2.7,Complete
+ACT0164,DEL021,prioritize,8,8.4,In Review
+ACT0165,DEL001,prioritize,11,23.4,In Review
+ACT0166,DEL014,validate,33,7.7,In Review
+ACT0167,DEL001,validate,6,12.1,In Review
+ACT0168,DEL002,escalate,2,16.8,Proposed
+ACT0169,DEL001,prioritize,30,16.5,Complete
+ACT0170,DEL025,monitor,22,17.0,Complete
+ACT0171,DEL016,prioritize,23,8.7,In Review
+ACT0172,DEL032,validate,41,6.5,In Review
+ACT0173,DEL024,prioritize,41,16.1,In Review
+ACT0174,DEL034,prioritize,44,6.8,In Review
+ACT0175,DEL015,validate,12,3.1,Complete
+ACT0176,DEL012,monitor,25,20.6,Complete
+ACT0177,DEL025,escalate,13,2.8,Complete
+ACT0178,DEL010,document,36,23.6,In Review
+ACT0179,DEL003,escalate,16,16.9,Complete
+ACT0180,DEL005,automate,40,20.2,Ready
+ACT0181,DEL006,automate,28,22.9,Proposed
+ACT0182,DEL013,prioritize,11,9.3,Proposed
+ACT0183,DEL008,prioritize,27,20.3,Ready
+ACT0184,DEL028,escalate,38,12.6,Proposed
+ACT0185,DEL031,validate,43,3.8,Complete
+ACT0186,DEL023,validate,31,11.6,Ready
+ACT0187,DEL032,monitor,38,10.9,Complete
+ACT0188,DEL023,monitor,35,20.3,Proposed
+ACT0189,DEL008,prioritize,12,17.5,Ready
+ACT0190,DEL024,prioritize,34,12.9,Complete
+ACT0191,DEL029,monitor,13,12.7,Ready
+ACT0192,DEL018,document,35,15.5,In Review
+ACT0193,DEL003,automate,35,15.5,In Review
+ACT0194,DEL026,monitor,37,12.4,Ready
+ACT0195,DEL005,escalate,40,22.8,In Review
+ACT0196,DEL020,validate,42,15.2,Complete
+ACT0197,DEL027,validate,25,20.8,In Review
+ACT0198,DEL006,document,30,7.6,Ready
+ACT0199,DEL019,monitor,31,3.0,Ready
+ACT0200,DEL013,escalate,12,10.6,Proposed
+ACT0201,DEL007,automate,4,9.7,Proposed
+ACT0202,DEL012,escalate,11,14.6,Complete
+ACT0203,DEL028,validate,13,19.8,Proposed
+ACT0204,DEL031,escalate,44,2.8,In Review
+ACT0205,DEL008,automate,11,16.8,Proposed
+ACT0206,DEL026,prioritize,34,5.8,Complete
+ACT0207,DEL034,automate,23,3.6,Ready
+ACT0208,DEL013,document,19,4.5,Ready
+ACT0209,DEL004,prioritize,36,16.4,Complete
+ACT0210,DEL002,document,10,2.3,Proposed
+ACT0211,DEL021,prioritize,44,12.9,In Review
+ACT0212,DEL026,prioritize,10,7.1,Proposed
+ACT0213,DEL005,automate,16,13.7,Proposed
+ACT0214,DEL005,escalate,12,12.7,Complete
+ACT0215,DEL009,escalate,12,20.8,Ready
+ACT0216,DEL024,validate,11,23.9,Proposed
+ACT0217,DEL025,escalate,13,20.2,Proposed
+ACT0218,DEL023,automate,13,22.7,Complete
+ACT0219,DEL002,escalate,21,12.7,Ready
+ACT0220,DEL020,prioritize,12,22.0,Complete
