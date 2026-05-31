@@ -1,17 +1,39 @@
--- Priority queue foundation
-select
-  entity_id,
-  avg(risk_score) as avg_risk_score,
-  avg(quality_score) as avg_quality_score,
-  sum(value_pool) as value_pool
-from daily_metrics
-group by 1
-order by avg_risk_score desc;
+-- Data quality checks for the delivery fulfillment artifact.
 
--- Action readiness
 select
-  action_type,
-  avg(expected_lift_pct) as expected_lift,
-  avg(effort_hours) as effort_hours
-from recommended_actions
-group by 1;
+  segment_id,
+  count(*) as row_count,
+  min(date) as first_date,
+  max(date) as last_date
+from daily_metrics
+group by segment_id
+having count(*) <> 84;
+
+select
+  segment_id,
+  date,
+  under_25_min_sla_pct,
+  order_accuracy_pct,
+  capacity_utilization_pct
+from daily_metrics
+where under_25_min_sla_pct not between 0 and 100
+   or order_accuracy_pct not between 0 and 100
+   or capacity_utilization_pct not between 0 and 100;
+
+select
+  initiative_id,
+  title,
+  opportunity_score,
+  decision
+from initiative_business_case
+order by opportunity_score desc;
+
+select
+  req_id,
+  initiative_id,
+  metric,
+  owner
+from prd_requirements
+where acceptance is null
+   or metric is null
+   or owner is null;

@@ -1,0 +1,11 @@
+segment_id,name,scenario,channel,owner,baseline_orders,capacity,food_attach,prep,wait,delivery,accuracy,sentiment
+SEG01,Peak espresso rush delivery,Morning rush,Third-party marketplace,Store operations,920,88,0.47,9.4,4.2,10.7,96.8,69
+SEG02,Owned-app delivery handoff,Morning rush,Owned app delivery,Digital product,640,82,0.52,8.7,3.5,10.3,97.6,74
+SEG03,Food-heavy lunch bundles,Lunch,Third-party marketplace,Menu operations,710,76,0.68,10.8,3.9,11.2,95.9,66
+SEG04,Suburban drive-thru collision,Morning rush,Mixed digital,Store operations,860,91,0.41,9.8,5.1,11.0,96.1,63
+SEG05,Driver arrival before make-ready,All-day,Third-party marketplace,Delivery partnerships,560,73,0.44,8.1,6.4,10.5,97.0,61
+SEG06,High-rise courier dwell,Urban core,Third-party marketplace,Delivery partnerships,430,69,0.39,7.9,4.8,14.0,97.4,65
+SEG07,Cold beverage customization,Afternoon,Owned app delivery,Digital product,510,70,0.31,8.5,2.9,10.1,94.8,62
+SEG08,Late-day promotion spike,Promotion,Third-party marketplace,Growth partnerships,780,94,0.36,11.2,5.7,11.5,95.4,58
+SEG09,Low-volume cafe delivery,All-day,Third-party marketplace,Store operations,260,54,0.29,6.9,2.1,9.7,98.3,82
+SEG10,Airport and campus pickup zones,Travel hub,Mixed digital,Store operations,390,81,0.43,9.5,5.6,12.5,96.5,60

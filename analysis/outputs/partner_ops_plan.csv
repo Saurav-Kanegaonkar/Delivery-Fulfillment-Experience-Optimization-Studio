@@ -1,0 +1,7 @@
+initiative_id,title,partner_touchpoint,ops_owner,decision_packet,escalation_rule,next_review
+OPP01,Capacity-aware delivery promise,Weekly launch review,Delivery partnerships,Ship pilot with 78% confidence,SLA miss above 8% or partner cancel rate above 1.5%,2026-04-17
+OPP03,Food bundle readiness checklist,Weekly launch review,Delivery partnerships,Ship pilot with 82% confidence,SLA miss above 8% or partner cancel rate above 1.5%,2026-04-17
+OPP02,Driver-arrival pacing signal,Weekly launch review,Store operations,Ship pilot with 74% confidence,SLA miss above 8% or partner cancel rate above 1.5%,2026-04-17
+OPP05,Partner exception weekly review,Weekly launch review,Delivery partnerships,Ship pilot with 86% confidence,SLA miss above 8% or partner cancel rate above 1.5%,2026-04-17
+OPP06,Delivery shelf zoning guide,Weekly launch review,Delivery partnerships,Ship pilot with 71% confidence,SLA miss above 8% or partner cancel rate above 1.5%,2026-04-17
+OPP04,Customization risk guardrail,Two-week discovery review,Delivery partnerships,Discovery sprint with 69% confidence,"Unowned requirement, unclear metric, or partner dependency blocked",2026-04-17

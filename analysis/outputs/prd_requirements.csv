@@ -1,0 +1,8 @@
+req_id,initiative_id,requirement,acceptance,metric,owner
+REQ01,OPP01,"Calculate a live delivery promise adjustment from channel queue, labor capacity, and make-line load.",Quoted delivery-ready time shifts when capacity utilization exceeds 88% for 15 minutes.,Under-25-minute SLA,Digital product
+REQ02,OPP01,Expose a capacity reason code in the partner operations digest.,Every adjusted promise includes a source reason and recovery owner.,Escalations with owner,Store operations
+REQ03,OPP02,Publish make-ready event timing to delivery partners for eligible orders.,Partner receives make-ready signal within 60 seconds of bag seal scan.,Courier wait minutes,Delivery partnerships
+REQ04,OPP03,Add food item confirmation before delivery bag handoff.,Bag cannot be marked ready until required food items are confirmed.,Missing-item contact rate,Menu operations
+REQ05,OPP04,Flag high-risk customization combinations on delivery orders.,The top 20 high-defect modifier combinations receive a packout alert.,Order accuracy,Digital product
+REQ06,OPP05,Create a weekly partner exception packet with decision status.,"At least 95% of partner asks are classified as ship, test, defer, or monitor.",Partner request aging,Partner management
+REQ07,OPP06,Attach store-format handoff instructions to each pilot store.,Each pilot store has a documented shelf zone and courier pickup cue.,Handoff wait minutes,Store operations

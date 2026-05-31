@@ -1,0 +1,11 @@
+segment_id,segment_name,scenario,channel,owner,weekly_orders,under_25_min_sla_pct,order_accuracy_pct,handoff_wait_minutes,capacity_utilization_pct,customer_contact_rate_pct,sentiment_score,estimated_weekly_drag_usd,priority_score,decision
+SEG08,Late-day promotion spike,Promotion,Third-party marketplace,Growth partnerships,5974,59.6,95.5,5.7,93.1,2.07,53.8,1910,112.8,Intervene
+SEG10,Airport and campus pickup zones,Travel hub,Mixed digital,Store operations,2844,63.8,96.5,5.5,81.8,1.83,56.7,728,87.2,Intervene
+SEG04,Suburban drive-thru collision,Morning rush,Mixed digital,Store operations,6725,71.4,96.1,5.1,90.6,1.62,61.3,1588,81.3,Intervene
+SEG05,Driver arrival before make-ready,All-day,Third-party marketplace,Delivery partnerships,4090,76.9,96.9,6.5,71.9,1.33,60.2,785,64.4,Intervene
+SEG06,High-rise courier dwell,Urban core,Third-party marketplace,Delivery partnerships,3146,68.6,97.4,4.7,68.6,1.57,62.7,633,63.7,Intervene
+SEG03,Food-heavy lunch bundles,Lunch,Third-party marketplace,Menu operations,5236,71.0,96.0,3.9,75.4,1.63,64.4,1259,62.5,Intervene
+SEG01,Peak espresso rush delivery,Morning rush,Third-party marketplace,Store operations,7230,78.6,96.8,4.3,88.1,1.28,68.5,1339,55.4,Intervene
+SEG07,Cold beverage customization,Afternoon,Owned app delivery,Digital product,3744,93.4,94.8,2.9,71.0,0.98,62.2,877,29.2,Monitor
+SEG02,Owned-app delivery handoff,Morning rush,Owned app delivery,Digital product,5046,88.6,97.6,3.5,81.4,0.84,73.6,672,20.8,Monitor
+SEG09,Low-volume cafe delivery,All-day,Third-party marketplace,Store operations,1910,98.1,98.3,2.4,54.0,0.43,82.1,185,5.0,Monitor
